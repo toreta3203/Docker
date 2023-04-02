@@ -13,4 +13,7 @@
 
 → 에뮬레이터 (emulator) - 원래 '경쟁자', '모방자' 뜻으로 IT에서 다른 프로그램이나 장치를 모방하는 컴퓨터 프로그램을 뜻한다
 
-![Full_Virtualization](.\Pictures/Full%20Virtualization.jpg)
+<p align = "center">
+    <img src="Pictures\Full Virtualization.jpg">
+    </p>
+    <p align = "center"> # Full Virtualization </p>
