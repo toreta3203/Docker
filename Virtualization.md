@@ -16,7 +16,7 @@ EX) VM Workstation, VMwre Server, VMware Player, Virtual Box 등
 <p align = "center">
     <img src="Pictures\Host Virtualization.jpg">
     </p>
-    <p align = "center"> # Full Virtualization </p>
+    <p align = "center"> # Host Virtualization </p>
 
 
 <br>
@@ -32,7 +32,7 @@ EX) Citrix XenServer, MS hyper-V, KVM 등
 <p align = "center">
     <img src="Pictures\Hpyervisor Virtualization.jpg">
     </p>
-    <p align = "center"> # Full Virtualization </p>
+    <p align = "center"> # Hypervisor Virtualization </p>
 
 
 <br>
@@ -63,12 +63,10 @@ EX) Citrix XenServer, MS hyper-V, KVM 등
 * GuestOS의 커널을 수정하여 이런 역학이 가능하도록 만들어야 한다.
 
 → **Hpyer Call** - 하드웨어에 접글할 때 사요하는 명령
+
 <p align = "center">
     <img src="Pictures\Para Virtualization.jpg">
     </p>
-    <p align = "center"> # Full Virtualization </p>
+    <p align = "center"> # Para Virtualization </p>
 
 <br>
-
-
-
