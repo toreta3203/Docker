@@ -23,4 +23,3 @@
 ***
 
 ## **3. 반가상화 (Para-Virtualization)**
-
