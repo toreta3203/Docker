@@ -65,7 +65,7 @@ EX) Citrix XenServer, MS hyper-V, KVM 등
 → **Hpyer Call** - 하드웨어에 접글할 때 사요하는 명령
 
 <p align = "center">
-    <img src="Pictures\Para Virtualization.jpg">
+    <img src="Pictures\para Virtualization.jpg">
     </p>
     <p align = "center"> # Para Virtualization </p>
 
