@@ -62,7 +62,7 @@ EX) Citrix XenServer, MS hyper-V, KVM 등
 * 하드웨어를 완전히 가상화하지 않고 전가상화의 성능저하를 해결하기 위해 하이퍼콜(Hyper Call)이라는 인터페이스를 통해 하이퍼바이저에게 직접 요청한다.
 * GuestOS의 커널을 수정하여 이런 역학이 가능하도록 만들어야 한다.
 
-→ **Hpyer Call** - 하드웨어에 접글할 때 사요하는 명령
+→ **Hpyer Call** - 하드웨어에 접글할 때 사용하는 명령
 
 <p align = "center">
     <img src="Pictures\para Virtualization.jpg">
@@ -70,3 +70,21 @@ EX) Citrix XenServer, MS hyper-V, KVM 등
     <p align = "center"> # Para Virtualization </p>
 
 <br>
+
+***
+
+## **6. 컨테이너 가상화 (Container Virtualization)**
+* 어떤 환경에서나 실행하기 위해 필요한 모든 요소를 포함하는 소프트웨어 패키지
+* Host OS 위에 컨테이너 엔진을 설치하고 격리된 고유 영역에서 애플리케이션을 실행하는 것
+* 애플리케이션 실행에 필요한 바이너리, 라이브러리, 기타 구성 파일을 '이미지' 단위로 빌드하여 패키지를 배포
+* 어떤 환경에서도 애플리케이션을 오류 없이 작동시킬 수 있다
+* 하이퍼바이저와 Guest OS가 필요하지 않으므로 가볍다
+
+<p align = "center">
+    <img src="Pictures\Container Virtualization.jpg">
+    </p>
+    <p align = "center"> # Container Virtualization </p>
+
+<br>
+
+***
