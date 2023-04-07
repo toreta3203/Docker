@@ -1,4 +1,4 @@
-# Virtualization
+# **Virtualization**
 ## **1. Virtualization**
 * 단일 컴퓨터의 하드웨어 요소를 VM이라고 하는 다수의 가상 컴퓨터로 분할할 수 있도록 해주는 기술
 * 물리적 컴퓨터 하드웨어를 보다 효율적으로 활용할 수 있도록 해주는 프로세스
