@@ -2,8 +2,10 @@
 
 ## **1. docker ps**
 * docker ps<br>
-→ docker
+→ docker<br>
 → ps - process status 의 약자
+* docker ps -a<br>
+// 모든 도커 컨테이너를 나열
 
 <p align = "center">
     <img src="Pictures\CMD_docker run alpine ping google.com.jpg">
@@ -30,3 +32,4 @@
 
 → NAME - 컨테이너의 고유한 이름. 컨테이너 생성 시 --name 옵션으로 이름을 설정하지 않으면 도커 엔진이 임의로 형용사와 명사를 조합해 설정함.
 'docker rename' 명령어로 이름을 변경 가능 (doker rename <원래 이름> <변경할 이름>) 
+
